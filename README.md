@@ -1,3 +1,4 @@
+REMOTE
 # gestion_conflit
 gestion_conflit
 ici quleques lignes 
